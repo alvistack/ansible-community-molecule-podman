@@ -1,0 +1,5 @@
+python3-molecule-podman: copyright-without-copyright-notice
+python3-molecule-podman: initial-upload-closes-no-bugs
+python3-molecule-podman: no-manual-page
+python3-molecule-podman: unusual-interpreter
+python3-molecule-podman: zero-byte-file-in-doc-directory
