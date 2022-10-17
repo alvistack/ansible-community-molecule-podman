@@ -1,0 +1,5 @@
+python-molecule-podman source: file-without-copyright-information
+python-molecule-podman source: no-debian-changes
+python-molecule-podman source: source-contains-prebuilt-windows-binary
+python-molecule-podman source: source-is-missing
+python-molecule-podman source: source-package-encodes-python-version
